@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>AI Smart Civic Services — Server UI</title>
+    <style>
+      body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#f8fafc; color:#0f172a; margin:0; }
+      .container{max-width:1000px;margin:32px auto;padding:16px}
+      .card{background:#fff;border-radius:12px;padding:16px;margin-bottom:12px;box-shadow:0 1px 3px rgba(15,23,42,0.05)}
+      .meta{display:flex;justify-content:space-between;gap:12px}
+      .badge{padding:6px 10px;border-radius:999px;background:#eef2ff;color:#3730a3;font-weight:600}
+      h1{margin:0 0 8px}
+      .muted{color:#64748b;font-size:13px}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header class="card">
+        <h1>AI Smart Civic Services — Quick Server UI</h1>
+        <div class="muted">Total complaints: {{ total or 0 }}</div>
+      </header>
+
+      {% if complaints %}
+        {% for c in complaints %}
+          <article class="card">
+            <div class="meta">
+              <div>
+                <strong>{{ c.title }}</strong>
+                <div class="muted">{{ c.address or 'Unknown address' }} · {{ c.created_at.strftime('%Y-%m-%d %H:%M') }}</div>
+              </div>
+              <div style="text-align:right">
+                <div class="badge">{{ c.priority }}</div>
+                <div class="muted">{{ c.category }}</div>
+              </div>
+            </div>
+            <p style="margin-top:12px">{{ c.description }}</p>
+          </article>
+        {% endfor %}
+      {% else %}
+        <div class="card">No complaints yet. Use the API to submit one.</div>
+      {% endif %}
+    </div>
+  </body>
+</html>

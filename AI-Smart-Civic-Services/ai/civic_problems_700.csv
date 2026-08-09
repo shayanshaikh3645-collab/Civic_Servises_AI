@@ -1,0 +1,701 @@
+complaint_id,description,category,priority,assigned_department
+1,unsafe public area has been noticed near the main road and may become worse if ignored.,Safety,Medium,Public Safety
+2,Residents are reporting overflowing water tank around the market. Please inspect and resolve it.,Water,Medium,Water Supply
+3,Please send a team to the market; there is pothole that needs attention.,Roads,Medium,Roads & Works
+4,Please send a team to the neighborhood entrance; there is broken streetlight that needs attention.,Electricity,High,Electricity
+5,Please send a team to the community center; there is dangerous intersection that needs attention.,Safety,Medium,Public Safety
+6,"The the apartment block has blocked drain, and people are having difficulty using the area.",Drainage,Medium,Drainage & Sewerage
+7,Please send a team to the school; there is sewer blockage that needs attention.,Drainage,High,Drainage & Sewerage
+8,Urgent attention is needed at the market because of blocked drain.,Drainage,Low,Drainage & Sewerage
+9,There is a sewage overflow near the residential street. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+10,Residents are reporting abandoned structure around the neighborhood entrance. Please inspect and resolve it.,Safety,High,Public Safety
+11,overflowing garbage bin has been noticed near the neighborhood entrance and may become worse if ignored.,Waste,High,Waste Management
+12,Please send a team to the local mosque; there is exposed electrical wire that needs attention.,Electricity,Critical,Electricity
+13,Please send a team to the main road; there is unsafe public area that needs attention.,Safety,High,Public Safety
+14,Residents are reporting damaged road around the street corner. Please inspect and resolve it.,Roads,Medium,Roads & Works
+15,Citizens are concerned about plastic waste at the street corner. Kindly investigate.,Waste,Low,Waste Management
+16,overflowing drain has been noticed near the railway crossing and may become worse if ignored.,Drainage,High,Drainage & Sewerage
+17,"The the market has broken sidewalk, and people are having difficulty using the area.",Safety,Medium,Public Safety
+18,Urgent attention is needed at the hospital road because of broken water pipe.,Water,Medium,Water Supply
+19,Please send a team to the neighborhood entrance; there is broken sidewalk that needs attention.,Safety,Medium,Public Safety
+20,There is a damaged road near the street corner. It is causing problems for residents.,Roads,High,Roads & Works
+21,Please send a team to the market; there is uncollected garbage that needs attention.,Waste,High,Waste Management
+22,Please send a team to the public park; there is loose cable that needs attention.,Electricity,Medium,Electricity
+23,"The the hospital road has plastic waste, and people are having difficulty using the area.",Waste,Medium,Waste Management
+24,overflowing water tank has been noticed near the neighborhood entrance and may become worse if ignored.,Water,High,Water Supply
+25,Citizens are concerned about construction waste at the community center. Kindly investigate.,Waste,Medium,Waste Management
+26,Residents are reporting water supply interruption around the hospital road. Please inspect and resolve it.,Water,High,Water Supply
+27,"The the railway crossing has damaged road, and people are having difficulty using the area.",Roads,High,Roads & Works
+28,Urgent attention is needed at the market because of construction waste.,Waste,Medium,Waste Management
+29,There is a construction waste near the residential street. It is causing problems for residents.,Waste,Medium,Waste Management
+30,uneven road has been noticed near the drainage lane and may become worse if ignored.,Roads,High,Roads & Works
+31,Urgent attention is needed at the residential street because of blocked drain.,Drainage,Low,Drainage & Sewerage
+32,uneven road has been noticed near the drainage lane and may become worse if ignored.,Roads,High,Roads & Works
+33,Residents are reporting water supply interruption around the drainage lane. Please inspect and resolve it.,Water,High,Water Supply
+34,Please send a team to the neighborhood entrance; there is flooded drain that needs attention.,Drainage,Critical,Drainage & Sewerage
+35,"The the apartment block has low water pressure, and people are having difficulty using the area.",Water,Medium,Water Supply
+36,Citizens are concerned about broken streetlight at the local mosque. Kindly investigate.,Electricity,Medium,Electricity
+37,broken pavement has been noticed near the drainage lane and may become worse if ignored.,Roads,Medium,Roads & Works
+38,Residents are reporting water supply interruption around the market. Please inspect and resolve it.,Water,High,Water Supply
+39,"The the apartment block has road excavation, and people are having difficulty using the area.",Roads,Low,Roads & Works
+40,construction waste has been noticed near the school and may become worse if ignored.,Waste,Medium,Waste Management
+41,Please send a team to the bus stop; there is damaged electric pole that needs attention.,Electricity,High,Electricity
+42,Citizens are concerned about plastic waste at the railway crossing. Kindly investigate.,Waste,Medium,Waste Management
+43,Please send a team to the market; there is damaged electric pole that needs attention.,Electricity,Medium,Electricity
+44,Please send a team to the local mosque; there is blocked drain that needs attention.,Drainage,Medium,Drainage & Sewerage
+45,There is a pothole near the shopping area. It is causing problems for residents.,Roads,Medium,Roads & Works
+46,Please send a team to the market; there is broken pavement that needs attention.,Roads,Medium,Roads & Works
+47,"The the neighborhood entrance has illegal dumping, and people are having difficulty using the area.",Waste,High,Waste Management
+48,Please send a team to the hospital road; there is sparking transformer that needs attention.,Electricity,Critical,Electricity
+49,Residents are reporting scattered waste around the bus stop. Please inspect and resolve it.,Waste,Low,Waste Management
+50,Urgent attention is needed at the community center because of uncollected garbage.,Waste,Medium,Waste Management
+51,Residents are reporting unsafe public area around the railway crossing. Please inspect and resolve it.,Safety,Low,Public Safety
+52,Residents are reporting missing safety barrier around the apartment block. Please inspect and resolve it.,Safety,Medium,Public Safety
+53,"The the hospital road has water supply interruption, and people are having difficulty using the area.",Water,Medium,Water Supply
+54,Residents are reporting open manhole around the bus stop. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+55,There is a broken streetlight near the main road. It is causing problems for residents.,Electricity,High,Electricity
+56,The area around the community center is affected by broken water pipe. Please arrange maintenance.,Water,Medium,Water Supply
+57,Urgent attention is needed at the school because of overflowing garbage bin.,Waste,Low,Waste Management
+58,The area around the drainage lane is affected by uncollected garbage. Please arrange maintenance.,Waste,Medium,Waste Management
+59,The area around the apartment block is affected by broken sidewalk. Please arrange maintenance.,Safety,Low,Public Safety
+60,There is a overflowing drain near the main road. It is causing problems for residents.,Drainage,High,Drainage & Sewerage
+61,The area around the local mosque is affected by pothole. Please arrange maintenance.,Roads,Medium,Roads & Works
+62,Residents are reporting power outage around the main road. Please inspect and resolve it.,Electricity,High,Electricity
+63,Please send a team to the market; there is road excavation that needs attention.,Roads,Medium,Roads & Works
+64,There is a power outage near the local mosque. It is causing problems for residents.,Electricity,Medium,Electricity
+65,Citizens are concerned about plastic waste at the local mosque. Kindly investigate.,Waste,High,Waste Management
+66,Citizens are concerned about overflowing water tank at the shopping area. Kindly investigate.,Water,Medium,Water Supply
+67,illegal dumping has been noticed near the railway crossing and may become worse if ignored.,Waste,Medium,Waste Management
+68,Residents are reporting pothole around the hospital road. Please inspect and resolve it.,Roads,Low,Roads & Works
+69,"The the residential street has water supply interruption, and people are having difficulty using the area.",Water,High,Water Supply
+70,damaged road has been noticed near the public park and may become worse if ignored.,Roads,Low,Roads & Works
+71,There is a loose cable near the residential street. It is causing problems for residents.,Electricity,Medium,Electricity
+72,Residents are reporting exposed electrical wire around the drainage lane. Please inspect and resolve it.,Electricity,Critical,Electricity
+73,Residents are reporting low water pressure around the market. Please inspect and resolve it.,Water,High,Water Supply
+74,Please send a team to the residential street; there is low water pressure that needs attention.,Water,High,Water Supply
+75,overflowing water tank has been noticed near the railway crossing and may become worse if ignored.,Water,Medium,Water Supply
+76,Urgent attention is needed at the market because of blocked drain.,Drainage,High,Drainage & Sewerage
+77,"The the public park has pothole, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+78,The area around the shopping area is affected by overflowing drain. Please arrange maintenance.,Drainage,Medium,Drainage & Sewerage
+79,Residents are reporting construction waste around the main road. Please inspect and resolve it.,Waste,Low,Waste Management
+80,There is a damaged railing near the neighborhood entrance. It is causing problems for residents.,Safety,High,Public Safety
+81,Urgent attention is needed at the school because of sparking transformer.,Electricity,Critical,Electricity
+82,Citizens are concerned about water leakage at the residential street. Kindly investigate.,Water,High,Water Supply
+83,Please send a team to the bus stop; there is broken pavement that needs attention.,Roads,Medium,Roads & Works
+84,Urgent attention is needed at the drainage lane because of sewage overflow.,Drainage,Critical,Drainage & Sewerage
+85,Please send a team to the school; there is loose cable that needs attention.,Electricity,High,Electricity
+86,"The the main road has contaminated water, and people are having difficulty using the area.",Water,High,Water Supply
+87,Please send a team to the apartment block; there is open manhole that needs attention.,Drainage,Medium,Drainage & Sewerage
+88,There is a unsafe public area near the community center. It is causing problems for residents.,Safety,High,Public Safety
+89,The area around the street corner is affected by broken water pipe. Please arrange maintenance.,Water,Medium,Water Supply
+90,Please send a team to the main road; there is broken water pipe that needs attention.,Water,Medium,Water Supply
+91,blocked drain has been noticed near the apartment block and may become worse if ignored.,Drainage,Medium,Drainage & Sewerage
+92,Citizens are concerned about damaged electric pole at the railway crossing. Kindly investigate.,Electricity,High,Electricity
+93,broken pavement has been noticed near the school and may become worse if ignored.,Roads,Low,Roads & Works
+94,Citizens are concerned about damaged electric pole at the public park. Kindly investigate.,Electricity,Medium,Electricity
+95,Please send a team to the community center; there is broken streetlight that needs attention.,Electricity,Medium,Electricity
+96,Please send a team to the main road; there is abandoned structure that needs attention.,Safety,Medium,Public Safety
+97,Citizens are concerned about uneven road at the drainage lane. Kindly investigate.,Roads,Medium,Roads & Works
+98,unsafe public area has been noticed near the shopping area and may become worse if ignored.,Safety,Medium,Public Safety
+99,Urgent attention is needed at the public park because of abandoned structure.,Safety,Medium,Public Safety
+100,Urgent attention is needed at the bus stop because of power outage.,Electricity,Medium,Electricity
+101,"The the shopping area has plastic waste, and people are having difficulty using the area.",Waste,Medium,Waste Management
+102,There is a open manhole near the neighborhood entrance. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+103,Citizens are concerned about contaminated water at the apartment block. Kindly investigate.,Water,Medium,Water Supply
+104,The area around the bus stop is affected by plastic waste. Please arrange maintenance.,Waste,High,Waste Management
+105,Residents are reporting damaged railing around the railway crossing. Please inspect and resolve it.,Safety,Medium,Public Safety
+106,Citizens are concerned about broken sidewalk at the local mosque. Kindly investigate.,Safety,Low,Public Safety
+107,Please send a team to the residential street; there is overflowing water tank that needs attention.,Water,High,Water Supply
+108,Please send a team to the main road; there is water leakage that needs attention.,Water,High,Water Supply
+109,Urgent attention is needed at the hospital road because of broken streetlight.,Electricity,High,Electricity
+110,Urgent attention is needed at the shopping area because of power outage.,Electricity,Medium,Electricity
+111,There is a broken water pipe near the railway crossing. It is causing problems for residents.,Water,High,Water Supply
+112,"The the bus stop has cracked road, and people are having difficulty using the area.",Roads,High,Roads & Works
+113,There is a dangerous intersection near the hospital road. It is causing problems for residents.,Safety,Medium,Public Safety
+114,The area around the school is affected by cracked road. Please arrange maintenance.,Roads,Medium,Roads & Works
+115,The area around the public park is affected by sparking transformer. Please arrange maintenance.,Electricity,Critical,Electricity
+116,Urgent attention is needed at the drainage lane because of loose cable.,Electricity,High,Electricity
+117,"The the drainage lane has damaged electric pole, and people are having difficulty using the area.",Electricity,High,Electricity
+118,Please send a team to the residential street; there is scattered waste that needs attention.,Waste,High,Waste Management
+119,Please send a team to the hospital road; there is sewage overflow that needs attention.,Drainage,Critical,Drainage & Sewerage
+120,open manhole has been noticed near the market and may become worse if ignored.,Drainage,Medium,Drainage & Sewerage
+121,Residents are reporting sewer blockage around the drainage lane. Please inspect and resolve it.,Drainage,Low,Drainage & Sewerage
+122,"The the shopping area has contaminated water, and people are having difficulty using the area.",Water,High,Water Supply
+123,Citizens are concerned about cracked road at the community center. Kindly investigate.,Roads,Medium,Roads & Works
+124,Urgent attention is needed at the bus stop because of overflowing garbage bin.,Waste,Medium,Waste Management
+125,Urgent attention is needed at the main road because of loose cable.,Electricity,Medium,Electricity
+126,Urgent attention is needed at the apartment block because of sewer blockage.,Drainage,High,Drainage & Sewerage
+127,Please send a team to the shopping area; there is construction waste that needs attention.,Waste,Medium,Waste Management
+128,There is a open manhole near the hospital road. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+129,Urgent attention is needed at the apartment block because of broken sidewalk.,Safety,High,Public Safety
+130,There is a illegal dumping near the local mosque. It is causing problems for residents.,Waste,High,Waste Management
+131,There is a sparking transformer near the railway crossing. It is causing problems for residents.,Electricity,Critical,Electricity
+132,"The the community center has uneven road, and people are having difficulty using the area.",Roads,High,Roads & Works
+133,Urgent attention is needed at the residential street because of water leakage.,Water,Medium,Water Supply
+134,Urgent attention is needed at the public park because of uncollected garbage.,Waste,Medium,Waste Management
+135,Residents are reporting uncollected garbage around the street corner. Please inspect and resolve it.,Waste,Medium,Waste Management
+136,Citizens are concerned about dangerous intersection at the main road. Kindly investigate.,Safety,Medium,Public Safety
+137,There is a uneven road near the main road. It is causing problems for residents.,Roads,High,Roads & Works
+138,"The the local mosque has water leakage, and people are having difficulty using the area.",Water,Medium,Water Supply
+139,Please send a team to the market; there is plastic waste that needs attention.,Waste,Medium,Waste Management
+140,Residents are reporting sewer blockage around the school. Please inspect and resolve it.,Drainage,High,Drainage & Sewerage
+141,There is a low water pressure near the market. It is causing problems for residents.,Water,High,Water Supply
+142,Urgent attention is needed at the drainage lane because of loose cable.,Electricity,Medium,Electricity
+143,Please send a team to the market; there is damaged railing that needs attention.,Safety,Low,Public Safety
+144,Residents are reporting flooded drain around the local mosque. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+145,Urgent attention is needed at the public park because of broken streetlight.,Electricity,Medium,Electricity
+146,Citizens are concerned about road excavation at the railway crossing. Kindly investigate.,Roads,Low,Roads & Works
+147,Urgent attention is needed at the market because of scattered waste.,Waste,High,Waste Management
+148,"The the shopping area has abandoned structure, and people are having difficulty using the area.",Safety,Medium,Public Safety
+149,dangerous intersection has been noticed near the railway crossing and may become worse if ignored.,Safety,Medium,Public Safety
+150,Urgent attention is needed at the hospital road because of damaged electric pole.,Electricity,High,Electricity
+151,Please send a team to the public park; there is exposed electrical wire that needs attention.,Electricity,Critical,Electricity
+152,The area around the drainage lane is affected by broken pavement. Please arrange maintenance.,Roads,Medium,Roads & Works
+153,Urgent attention is needed at the local mosque because of construction waste.,Waste,Medium,Waste Management
+154,The area around the school is affected by uncollected garbage. Please arrange maintenance.,Waste,Medium,Waste Management
+155,sewer blockage has been noticed near the residential street and may become worse if ignored.,Drainage,Medium,Drainage & Sewerage
+156,Please send a team to the market; there is power outage that needs attention.,Electricity,High,Electricity
+157,Please send a team to the apartment block; there is construction waste that needs attention.,Waste,Medium,Waste Management
+158,The area around the hospital road is affected by broken sidewalk. Please arrange maintenance.,Safety,High,Public Safety
+159,Urgent attention is needed at the bus stop because of broken pavement.,Roads,Medium,Roads & Works
+160,Citizens are concerned about flooded drain at the local mosque. Kindly investigate.,Drainage,Critical,Drainage & Sewerage
+161,Citizens are concerned about construction waste at the neighborhood entrance. Kindly investigate.,Waste,Medium,Waste Management
+162,Citizens are concerned about dangerous intersection at the public park. Kindly investigate.,Safety,High,Public Safety
+163,Please send a team to the residential street; there is sewer blockage that needs attention.,Drainage,Low,Drainage & Sewerage
+164,"The the market has low water pressure, and people are having difficulty using the area.",Water,Low,Water Supply
+165,abandoned structure has been noticed near the residential street and may become worse if ignored.,Safety,High,Public Safety
+166,Citizens are concerned about low water pressure at the bus stop. Kindly investigate.,Water,Low,Water Supply
+167,"The the neighborhood entrance has uneven road, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+168,"The the residential street has road excavation, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+169,There is a overflowing garbage bin near the street corner. It is causing problems for residents.,Waste,Medium,Waste Management
+170,Citizens are concerned about scattered waste at the hospital road. Kindly investigate.,Waste,Low,Waste Management
+171,The area around the street corner is affected by broken pavement. Please arrange maintenance.,Roads,Low,Roads & Works
+172,Residents are reporting cracked road around the hospital road. Please inspect and resolve it.,Roads,Medium,Roads & Works
+173,"The the school has unsafe public area, and people are having difficulty using the area.",Safety,High,Public Safety
+174,Residents are reporting blocked drain around the bus stop. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+175,Please send a team to the local mosque; there is construction waste that needs attention.,Waste,High,Waste Management
+176,The area around the drainage lane is affected by scattered waste. Please arrange maintenance.,Waste,Medium,Waste Management
+177,There is a damaged electric pole near the residential street. It is causing problems for residents.,Electricity,Medium,Electricity
+178,Please send a team to the apartment block; there is unsafe public area that needs attention.,Safety,Medium,Public Safety
+179,"The the market has flooded drain, and people are having difficulty using the area.",Drainage,Critical,Drainage & Sewerage
+180,Residents are reporting broken water pipe around the neighborhood entrance. Please inspect and resolve it.,Water,Low,Water Supply
+181,The area around the shopping area is affected by scattered waste. Please arrange maintenance.,Waste,Medium,Waste Management
+182,low water pressure has been noticed near the shopping area and may become worse if ignored.,Water,High,Water Supply
+183,Please send a team to the railway crossing; there is overflowing garbage bin that needs attention.,Waste,High,Waste Management
+184,Please send a team to the railway crossing; there is dangerous intersection that needs attention.,Safety,Medium,Public Safety
+185,"The the railway crossing has power outage, and people are having difficulty using the area.",Electricity,High,Electricity
+186,"The the main road has water leakage, and people are having difficulty using the area.",Water,High,Water Supply
+187,loose cable has been noticed near the street corner and may become worse if ignored.,Electricity,Medium,Electricity
+188,Urgent attention is needed at the residential street because of plastic waste.,Waste,High,Waste Management
+189,The area around the hospital road is affected by sparking transformer. Please arrange maintenance.,Electricity,Critical,Electricity
+190,Urgent attention is needed at the main road because of road excavation.,Roads,High,Roads & Works
+191,Residents are reporting exposed electrical wire around the main road. Please inspect and resolve it.,Electricity,Critical,Electricity
+192,There is a overflowing water tank near the street corner. It is causing problems for residents.,Water,High,Water Supply
+193,There is a missing safety barrier near the local mosque. It is causing problems for residents.,Safety,High,Public Safety
+194,The area around the neighborhood entrance is affected by contaminated water. Please arrange maintenance.,Water,High,Water Supply
+195,The area around the community center is affected by water supply interruption. Please arrange maintenance.,Water,High,Water Supply
+196,Citizens are concerned about uncollected garbage at the community center. Kindly investigate.,Waste,Medium,Waste Management
+197,Urgent attention is needed at the public park because of damaged road.,Roads,Medium,Roads & Works
+198,There is a flooded drain near the community center. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+199,overflowing garbage bin has been noticed near the public park and may become worse if ignored.,Waste,Medium,Waste Management
+200,There is a construction waste near the street corner. It is causing problems for residents.,Waste,Medium,Waste Management
+201,There is a damaged electric pole near the community center. It is causing problems for residents.,Electricity,Low,Electricity
+202,The area around the apartment block is affected by sewage overflow. Please arrange maintenance.,Drainage,Critical,Drainage & Sewerage
+203,There is a abandoned structure near the apartment block. It is causing problems for residents.,Safety,Medium,Public Safety
+204,power outage has been noticed near the drainage lane and may become worse if ignored.,Electricity,Medium,Electricity
+205,There is a abandoned structure near the market. It is causing problems for residents.,Safety,High,Public Safety
+206,"The the shopping area has power outage, and people are having difficulty using the area.",Electricity,Medium,Electricity
+207,Residents are reporting road excavation around the community center. Please inspect and resolve it.,Roads,Medium,Roads & Works
+208,"The the market has cracked road, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+209,missing safety barrier has been noticed near the neighborhood entrance and may become worse if ignored.,Safety,Medium,Public Safety
+210,The area around the bus stop is affected by scattered waste. Please arrange maintenance.,Waste,Medium,Waste Management
+211,"The the drainage lane has illegal dumping, and people are having difficulty using the area.",Waste,High,Waste Management
+212,open manhole has been noticed near the public park and may become worse if ignored.,Drainage,High,Drainage & Sewerage
+213,The area around the residential street is affected by flooded drain. Please arrange maintenance.,Drainage,Critical,Drainage & Sewerage
+214,The area around the neighborhood entrance is affected by contaminated water. Please arrange maintenance.,Water,Medium,Water Supply
+215,The area around the community center is affected by sparking transformer. Please arrange maintenance.,Electricity,Critical,Electricity
+216,Please send a team to the shopping area; there is overflowing drain that needs attention.,Drainage,Medium,Drainage & Sewerage
+217,Citizens are concerned about contaminated water at the main road. Kindly investigate.,Water,High,Water Supply
+218,"The the community center has abandoned structure, and people are having difficulty using the area.",Safety,Medium,Public Safety
+219,Citizens are concerned about damaged road at the neighborhood entrance. Kindly investigate.,Roads,High,Roads & Works
+220,The area around the neighborhood entrance is affected by overflowing garbage bin. Please arrange maintenance.,Waste,Low,Waste Management
+221,"The the street corner has contaminated water, and people are having difficulty using the area.",Water,Low,Water Supply
+222,Urgent attention is needed at the local mosque because of sewer blockage.,Drainage,Medium,Drainage & Sewerage
+223,Urgent attention is needed at the street corner because of flooded drain.,Drainage,Critical,Drainage & Sewerage
+224,The area around the shopping area is affected by flooded drain. Please arrange maintenance.,Drainage,Critical,Drainage & Sewerage
+225,Residents are reporting broken streetlight around the local mosque. Please inspect and resolve it.,Electricity,Medium,Electricity
+226,Residents are reporting missing safety barrier around the bus stop. Please inspect and resolve it.,Safety,Medium,Public Safety
+227,Residents are reporting uneven road around the shopping area. Please inspect and resolve it.,Roads,Medium,Roads & Works
+228,There is a missing safety barrier near the drainage lane. It is causing problems for residents.,Safety,Low,Public Safety
+229,Citizens are concerned about broken pavement at the public park. Kindly investigate.,Roads,Medium,Roads & Works
+230,"The the community center has water supply interruption, and people are having difficulty using the area.",Water,Low,Water Supply
+231,Urgent attention is needed at the street corner because of road excavation.,Roads,Medium,Roads & Works
+232,"The the drainage lane has contaminated water, and people are having difficulty using the area.",Water,Medium,Water Supply
+233,missing safety barrier has been noticed near the hospital road and may become worse if ignored.,Safety,Medium,Public Safety
+234,"The the railway crossing has uncollected garbage, and people are having difficulty using the area.",Waste,Low,Waste Management
+235,Urgent attention is needed at the residential street because of sewage overflow.,Drainage,Critical,Drainage & Sewerage
+236,missing safety barrier has been noticed near the hospital road and may become worse if ignored.,Safety,Low,Public Safety
+237,Please send a team to the market; there is scattered waste that needs attention.,Waste,Medium,Waste Management
+238,sewage overflow has been noticed near the residential street and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+239,uneven road has been noticed near the community center and may become worse if ignored.,Roads,Low,Roads & Works
+240,The area around the main road is affected by broken sidewalk. Please arrange maintenance.,Safety,High,Public Safety
+241,Citizens are concerned about overflowing drain at the local mosque. Kindly investigate.,Drainage,Medium,Drainage & Sewerage
+242,"The the residential street has water supply interruption, and people are having difficulty using the area.",Water,Medium,Water Supply
+243,broken sidewalk has been noticed near the main road and may become worse if ignored.,Safety,High,Public Safety
+244,"The the public park has road excavation, and people are having difficulty using the area.",Roads,Low,Roads & Works
+245,Urgent attention is needed at the shopping area because of sewer blockage.,Drainage,Low,Drainage & Sewerage
+246,Citizens are concerned about water supply interruption at the drainage lane. Kindly investigate.,Water,Medium,Water Supply
+247,The area around the residential street is affected by overflowing drain. Please arrange maintenance.,Drainage,High,Drainage & Sewerage
+248,Citizens are concerned about flooded drain at the street corner. Kindly investigate.,Drainage,Critical,Drainage & Sewerage
+249,"The the market has cracked road, and people are having difficulty using the area.",Roads,High,Roads & Works
+250,Urgent attention is needed at the shopping area because of overflowing water tank.,Water,High,Water Supply
+251,Urgent attention is needed at the market because of exposed electrical wire.,Electricity,Critical,Electricity
+252,Residents are reporting broken pavement around the neighborhood entrance. Please inspect and resolve it.,Roads,Medium,Roads & Works
+253,broken sidewalk has been noticed near the railway crossing and may become worse if ignored.,Safety,Medium,Public Safety
+254,Please send a team to the market; there is missing safety barrier that needs attention.,Safety,Medium,Public Safety
+255,Please send a team to the public park; there is sparking transformer that needs attention.,Electricity,Critical,Electricity
+256,The area around the railway crossing is affected by unsafe public area. Please arrange maintenance.,Safety,High,Public Safety
+257,Residents are reporting flooded drain around the community center. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+258,water leakage has been noticed near the main road and may become worse if ignored.,Water,High,Water Supply
+259,"The the bus stop has pothole, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+260,Urgent attention is needed at the shopping area because of flooded drain.,Drainage,Critical,Drainage & Sewerage
+261,"The the shopping area has loose cable, and people are having difficulty using the area.",Electricity,High,Electricity
+262,The area around the street corner is affected by unsafe public area. Please arrange maintenance.,Safety,Medium,Public Safety
+263,Citizens are concerned about blocked drain at the shopping area. Kindly investigate.,Drainage,Medium,Drainage & Sewerage
+264,Citizens are concerned about illegal dumping at the street corner. Kindly investigate.,Waste,Low,Waste Management
+265,Citizens are concerned about missing safety barrier at the neighborhood entrance. Kindly investigate.,Safety,Low,Public Safety
+266,The area around the market is affected by overflowing drain. Please arrange maintenance.,Drainage,Low,Drainage & Sewerage
+267,There is a overflowing water tank near the railway crossing. It is causing problems for residents.,Water,Low,Water Supply
+268,Please send a team to the school; there is overflowing drain that needs attention.,Drainage,Low,Drainage & Sewerage
+269,Please send a team to the local mosque; there is power outage that needs attention.,Electricity,High,Electricity
+270,"The the apartment block has low water pressure, and people are having difficulty using the area.",Water,High,Water Supply
+271,"The the residential street has broken streetlight, and people are having difficulty using the area.",Electricity,High,Electricity
+272,"The the apartment block has exposed electrical wire, and people are having difficulty using the area.",Electricity,Critical,Electricity
+273,There is a uneven road near the street corner. It is causing problems for residents.,Roads,Low,Roads & Works
+274,Citizens are concerned about overflowing drain at the local mosque. Kindly investigate.,Drainage,Low,Drainage & Sewerage
+275,Urgent attention is needed at the school because of blocked drain.,Drainage,Medium,Drainage & Sewerage
+276,The area around the hospital road is affected by unsafe public area. Please arrange maintenance.,Safety,High,Public Safety
+277,The area around the market is affected by sparking transformer. Please arrange maintenance.,Electricity,Critical,Electricity
+278,There is a power outage near the local mosque. It is causing problems for residents.,Electricity,High,Electricity
+279,The area around the residential street is affected by dangerous intersection. Please arrange maintenance.,Safety,Medium,Public Safety
+280,Urgent attention is needed at the hospital road because of pothole.,Roads,Medium,Roads & Works
+281,The area around the shopping area is affected by cracked road. Please arrange maintenance.,Roads,Low,Roads & Works
+282,"The the local mosque has broken pavement, and people are having difficulty using the area.",Roads,Low,Roads & Works
+283,Citizens are concerned about sewage overflow at the railway crossing. Kindly investigate.,Drainage,Critical,Drainage & Sewerage
+284,construction waste has been noticed near the neighborhood entrance and may become worse if ignored.,Waste,Medium,Waste Management
+285,Residents are reporting damaged electric pole around the market. Please inspect and resolve it.,Electricity,High,Electricity
+286,Please send a team to the shopping area; there is dangerous intersection that needs attention.,Safety,Medium,Public Safety
+287,The area around the public park is affected by contaminated water. Please arrange maintenance.,Water,Medium,Water Supply
+288,Urgent attention is needed at the public park because of unsafe public area.,Safety,Medium,Public Safety
+289,The area around the school is affected by sewer blockage. Please arrange maintenance.,Drainage,Low,Drainage & Sewerage
+290,Residents are reporting pothole around the community center. Please inspect and resolve it.,Roads,High,Roads & Works
+291,There is a overflowing drain near the neighborhood entrance. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+292,Residents are reporting sparking transformer around the public park. Please inspect and resolve it.,Electricity,Critical,Electricity
+293,Urgent attention is needed at the street corner because of uncollected garbage.,Waste,High,Waste Management
+294,unsafe public area has been noticed near the residential street and may become worse if ignored.,Safety,Medium,Public Safety
+295,"The the bus stop has sparking transformer, and people are having difficulty using the area.",Electricity,Critical,Electricity
+296,Residents are reporting abandoned structure around the bus stop. Please inspect and resolve it.,Safety,Medium,Public Safety
+297,exposed electrical wire has been noticed near the market and may become worse if ignored.,Electricity,Critical,Electricity
+298,Urgent attention is needed at the apartment block because of power outage.,Electricity,High,Electricity
+299,There is a sparking transformer near the railway crossing. It is causing problems for residents.,Electricity,Critical,Electricity
+300,loose cable has been noticed near the street corner and may become worse if ignored.,Electricity,Low,Electricity
+301,flooded drain has been noticed near the apartment block and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+302,"The the main road has sewer blockage, and people are having difficulty using the area.",Drainage,High,Drainage & Sewerage
+303,Residents are reporting loose cable around the community center. Please inspect and resolve it.,Electricity,Low,Electricity
+304,Please send a team to the market; there is unsafe public area that needs attention.,Safety,Medium,Public Safety
+305,Citizens are concerned about uncollected garbage at the school. Kindly investigate.,Waste,Medium,Waste Management
+306,Residents are reporting sewage overflow around the local mosque. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+307,There is a damaged road near the school. It is causing problems for residents.,Roads,Medium,Roads & Works
+308,Urgent attention is needed at the railway crossing because of open manhole.,Drainage,Medium,Drainage & Sewerage
+309,Please send a team to the residential street; there is scattered waste that needs attention.,Waste,High,Waste Management
+310,Residents are reporting broken pavement around the community center. Please inspect and resolve it.,Roads,Medium,Roads & Works
+311,dangerous intersection has been noticed near the hospital road and may become worse if ignored.,Safety,Low,Public Safety
+312,There is a construction waste near the main road. It is causing problems for residents.,Waste,Medium,Waste Management
+313,broken water pipe has been noticed near the apartment block and may become worse if ignored.,Water,Medium,Water Supply
+314,Urgent attention is needed at the hospital road because of pothole.,Roads,Low,Roads & Works
+315,Please send a team to the shopping area; there is construction waste that needs attention.,Waste,Medium,Waste Management
+316,Urgent attention is needed at the market because of missing safety barrier.,Safety,High,Public Safety
+317,The area around the main road is affected by cracked road. Please arrange maintenance.,Roads,High,Roads & Works
+318,Urgent attention is needed at the community center because of sewage overflow.,Drainage,Critical,Drainage & Sewerage
+319,broken sidewalk has been noticed near the community center and may become worse if ignored.,Safety,Low,Public Safety
+320,The area around the school is affected by broken pavement. Please arrange maintenance.,Roads,High,Roads & Works
+321,Residents are reporting blocked drain around the community center. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+322,Residents are reporting damaged electric pole around the neighborhood entrance. Please inspect and resolve it.,Electricity,Medium,Electricity
+323,Please send a team to the public park; there is flooded drain that needs attention.,Drainage,Critical,Drainage & Sewerage
+324,Residents are reporting overflowing drain around the market. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+325,"The the public park has low water pressure, and people are having difficulty using the area.",Water,Medium,Water Supply
+326,"The the bus stop has low water pressure, and people are having difficulty using the area.",Water,Medium,Water Supply
+327,The area around the school is affected by unsafe public area. Please arrange maintenance.,Safety,Medium,Public Safety
+328,Citizens are concerned about sparking transformer at the hospital road. Kindly investigate.,Electricity,Critical,Electricity
+329,The area around the school is affected by missing safety barrier. Please arrange maintenance.,Safety,Low,Public Safety
+330,plastic waste has been noticed near the residential street and may become worse if ignored.,Waste,Medium,Waste Management
+331,sewage overflow has been noticed near the market and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+332,There is a scattered waste near the main road. It is causing problems for residents.,Waste,Medium,Waste Management
+333,Residents are reporting blocked drain around the railway crossing. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+334,There is a damaged electric pole near the hospital road. It is causing problems for residents.,Electricity,Medium,Electricity
+335,Citizens are concerned about loose cable at the bus stop. Kindly investigate.,Electricity,Medium,Electricity
+336,The area around the main road is affected by power outage. Please arrange maintenance.,Electricity,Low,Electricity
+337,"The the market has flooded drain, and people are having difficulty using the area.",Drainage,Critical,Drainage & Sewerage
+338,The area around the shopping area is affected by damaged road. Please arrange maintenance.,Roads,High,Roads & Works
+339,"The the local mosque has sparking transformer, and people are having difficulty using the area.",Electricity,Critical,Electricity
+340,sewer blockage has been noticed near the drainage lane and may become worse if ignored.,Drainage,Medium,Drainage & Sewerage
+341,There is a flooded drain near the local mosque. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+342,Residents are reporting broken sidewalk around the public park. Please inspect and resolve it.,Safety,Medium,Public Safety
+343,loose cable has been noticed near the community center and may become worse if ignored.,Electricity,Medium,Electricity
+344,"The the street corner has dangerous intersection, and people are having difficulty using the area.",Safety,Medium,Public Safety
+345,Citizens are concerned about loose cable at the school. Kindly investigate.,Electricity,Medium,Electricity
+346,Urgent attention is needed at the railway crossing because of broken sidewalk.,Safety,Low,Public Safety
+347,Urgent attention is needed at the residential street because of unsafe public area.,Safety,Medium,Public Safety
+348,Residents are reporting overflowing drain around the railway crossing. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+349,There is a construction waste near the public park. It is causing problems for residents.,Waste,Medium,Waste Management
+350,The area around the public park is affected by broken water pipe. Please arrange maintenance.,Water,Low,Water Supply
+351,broken water pipe has been noticed near the market and may become worse if ignored.,Water,High,Water Supply
+352,There is a road excavation near the apartment block. It is causing problems for residents.,Roads,Medium,Roads & Works
+353,Urgent attention is needed at the local mosque because of power outage.,Electricity,Low,Electricity
+354,"The the apartment block has overflowing water tank, and people are having difficulty using the area.",Water,High,Water Supply
+355,Please send a team to the public park; there is cracked road that needs attention.,Roads,High,Roads & Works
+356,The area around the apartment block is affected by exposed electrical wire. Please arrange maintenance.,Electricity,Critical,Electricity
+357,water supply interruption has been noticed near the bus stop and may become worse if ignored.,Water,High,Water Supply
+358,The area around the public park is affected by illegal dumping. Please arrange maintenance.,Waste,Medium,Waste Management
+359,Urgent attention is needed at the neighborhood entrance because of open manhole.,Drainage,High,Drainage & Sewerage
+360,water supply interruption has been noticed near the school and may become worse if ignored.,Water,Low,Water Supply
+361,Residents are reporting uncollected garbage around the neighborhood entrance. Please inspect and resolve it.,Waste,High,Waste Management
+362,Residents are reporting broken streetlight around the residential street. Please inspect and resolve it.,Electricity,High,Electricity
+363,"The the drainage lane has open manhole, and people are having difficulty using the area.",Drainage,High,Drainage & Sewerage
+364,The area around the street corner is affected by damaged road. Please arrange maintenance.,Roads,High,Roads & Works
+365,Urgent attention is needed at the main road because of cracked road.,Roads,Medium,Roads & Works
+366,Citizens are concerned about contaminated water at the market. Kindly investigate.,Water,Medium,Water Supply
+367,Citizens are concerned about blocked drain at the street corner. Kindly investigate.,Drainage,High,Drainage & Sewerage
+368,The area around the residential street is affected by water leakage. Please arrange maintenance.,Water,Medium,Water Supply
+369,The area around the hospital road is affected by overflowing water tank. Please arrange maintenance.,Water,Medium,Water Supply
+370,Please send a team to the residential street; there is pothole that needs attention.,Roads,High,Roads & Works
+371,Urgent attention is needed at the local mosque because of loose cable.,Electricity,Low,Electricity
+372,Residents are reporting overflowing drain around the residential street. Please inspect and resolve it.,Drainage,Low,Drainage & Sewerage
+373,The area around the apartment block is affected by plastic waste. Please arrange maintenance.,Waste,Low,Waste Management
+374,There is a construction waste near the neighborhood entrance. It is causing problems for residents.,Waste,Medium,Waste Management
+375,"The the shopping area has power outage, and people are having difficulty using the area.",Electricity,Medium,Electricity
+376,Please send a team to the public park; there is road excavation that needs attention.,Roads,Medium,Roads & Works
+377,Residents are reporting overflowing water tank around the railway crossing. Please inspect and resolve it.,Water,Medium,Water Supply
+378,There is a blocked drain near the neighborhood entrance. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+379,Urgent attention is needed at the railway crossing because of overflowing garbage bin.,Waste,High,Waste Management
+380,Citizens are concerned about flooded drain at the main road. Kindly investigate.,Drainage,Critical,Drainage & Sewerage
+381,Residents are reporting broken pavement around the bus stop. Please inspect and resolve it.,Roads,High,Roads & Works
+382,There is a missing safety barrier near the school. It is causing problems for residents.,Safety,Medium,Public Safety
+383,The area around the school is affected by flooded drain. Please arrange maintenance.,Drainage,Critical,Drainage & Sewerage
+384,"The the railway crossing has abandoned structure, and people are having difficulty using the area.",Safety,High,Public Safety
+385,The area around the apartment block is affected by uneven road. Please arrange maintenance.,Roads,Low,Roads & Works
+386,Please send a team to the apartment block; there is water leakage that needs attention.,Water,High,Water Supply
+387,Urgent attention is needed at the neighborhood entrance because of sewer blockage.,Drainage,High,Drainage & Sewerage
+388,There is a damaged electric pole near the residential street. It is causing problems for residents.,Electricity,High,Electricity
+389,There is a low water pressure near the public park. It is causing problems for residents.,Water,High,Water Supply
+390,Citizens are concerned about sewer blockage at the market. Kindly investigate.,Drainage,Medium,Drainage & Sewerage
+391,Urgent attention is needed at the hospital road because of plastic waste.,Waste,Medium,Waste Management
+392,The area around the shopping area is affected by contaminated water. Please arrange maintenance.,Water,Medium,Water Supply
+393,Residents are reporting exposed electrical wire around the apartment block. Please inspect and resolve it.,Electricity,Critical,Electricity
+394,Urgent attention is needed at the market because of abandoned structure.,Safety,Medium,Public Safety
+395,Citizens are concerned about water supply interruption at the residential street. Kindly investigate.,Water,Low,Water Supply
+396,flooded drain has been noticed near the residential street and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+397,Urgent attention is needed at the shopping area because of construction waste.,Waste,Low,Waste Management
+398,There is a uncollected garbage near the hospital road. It is causing problems for residents.,Waste,High,Waste Management
+399,sewage overflow has been noticed near the community center and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+400,Urgent attention is needed at the market because of unsafe public area.,Safety,Medium,Public Safety
+401,There is a broken sidewalk near the school. It is causing problems for residents.,Safety,Low,Public Safety
+402,The area around the apartment block is affected by loose cable. Please arrange maintenance.,Electricity,Low,Electricity
+403,Citizens are concerned about damaged road at the apartment block. Kindly investigate.,Roads,Medium,Roads & Works
+404,"The the local mosque has broken streetlight, and people are having difficulty using the area.",Electricity,Medium,Electricity
+405,Residents are reporting sewer blockage around the hospital road. Please inspect and resolve it.,Drainage,Medium,Drainage & Sewerage
+406,Citizens are concerned about exposed electrical wire at the community center. Kindly investigate.,Electricity,Critical,Electricity
+407,Residents are reporting missing safety barrier around the bus stop. Please inspect and resolve it.,Safety,Low,Public Safety
+408,Urgent attention is needed at the neighborhood entrance because of contaminated water.,Water,High,Water Supply
+409,broken pavement has been noticed near the apartment block and may become worse if ignored.,Roads,High,Roads & Works
+410,The area around the residential street is affected by water supply interruption. Please arrange maintenance.,Water,Medium,Water Supply
+411,"The the hospital road has water leakage, and people are having difficulty using the area.",Water,High,Water Supply
+412,Citizens are concerned about overflowing garbage bin at the apartment block. Kindly investigate.,Waste,Medium,Waste Management
+413,unsafe public area has been noticed near the neighborhood entrance and may become worse if ignored.,Safety,High,Public Safety
+414,"The the shopping area has overflowing water tank, and people are having difficulty using the area.",Water,High,Water Supply
+415,Please send a team to the market; there is power outage that needs attention.,Electricity,High,Electricity
+416,Citizens are concerned about contaminated water at the main road. Kindly investigate.,Water,Medium,Water Supply
+417,"The the apartment block has open manhole, and people are having difficulty using the area.",Drainage,Medium,Drainage & Sewerage
+418,Urgent attention is needed at the residential street because of pothole.,Roads,High,Roads & Works
+419,Urgent attention is needed at the neighborhood entrance because of abandoned structure.,Safety,High,Public Safety
+420,Citizens are concerned about broken streetlight at the school. Kindly investigate.,Electricity,Medium,Electricity
+421,Citizens are concerned about scattered waste at the railway crossing. Kindly investigate.,Waste,Low,Waste Management
+422,"The the local mosque has loose cable, and people are having difficulty using the area.",Electricity,High,Electricity
+423,There is a contaminated water near the neighborhood entrance. It is causing problems for residents.,Water,High,Water Supply
+424,"The the residential street has power outage, and people are having difficulty using the area.",Electricity,Low,Electricity
+425,damaged railing has been noticed near the public park and may become worse if ignored.,Safety,High,Public Safety
+426,overflowing drain has been noticed near the railway crossing and may become worse if ignored.,Drainage,Low,Drainage & Sewerage
+427,Residents are reporting sewage overflow around the neighborhood entrance. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+428,"The the school has loose cable, and people are having difficulty using the area.",Electricity,Low,Electricity
+429,Citizens are concerned about loose cable at the drainage lane. Kindly investigate.,Electricity,High,Electricity
+430,There is a broken streetlight near the street corner. It is causing problems for residents.,Electricity,Low,Electricity
+431,Please send a team to the residential street; there is dangerous intersection that needs attention.,Safety,High,Public Safety
+432,There is a construction waste near the railway crossing. It is causing problems for residents.,Waste,Medium,Waste Management
+433,dangerous intersection has been noticed near the residential street and may become worse if ignored.,Safety,Medium,Public Safety
+434,The area around the residential street is affected by abandoned structure. Please arrange maintenance.,Safety,Low,Public Safety
+435,Urgent attention is needed at the hospital road because of damaged road.,Roads,Medium,Roads & Works
+436,"The the local mosque has low water pressure, and people are having difficulty using the area.",Water,Medium,Water Supply
+437,Citizens are concerned about missing safety barrier at the shopping area. Kindly investigate.,Safety,High,Public Safety
+438,Residents are reporting low water pressure around the neighborhood entrance. Please inspect and resolve it.,Water,Medium,Water Supply
+439,The area around the residential street is affected by overflowing garbage bin. Please arrange maintenance.,Waste,Medium,Waste Management
+440,Urgent attention is needed at the residential street because of pothole.,Roads,High,Roads & Works
+441,"The the street corner has illegal dumping, and people are having difficulty using the area.",Waste,High,Waste Management
+442,Please send a team to the public park; there is loose cable that needs attention.,Electricity,High,Electricity
+443,The area around the hospital road is affected by construction waste. Please arrange maintenance.,Waste,High,Waste Management
+444,Urgent attention is needed at the market because of overflowing garbage bin.,Waste,Medium,Waste Management
+445,Citizens are concerned about broken water pipe at the local mosque. Kindly investigate.,Water,Low,Water Supply
+446,The area around the local mosque is affected by open manhole. Please arrange maintenance.,Drainage,Medium,Drainage & Sewerage
+447,"The the community center has pothole, and people are having difficulty using the area.",Roads,High,Roads & Works
+448,Urgent attention is needed at the apartment block because of missing safety barrier.,Safety,Medium,Public Safety
+449,Please send a team to the local mosque; there is overflowing garbage bin that needs attention.,Waste,Medium,Waste Management
+450,The area around the community center is affected by blocked drain. Please arrange maintenance.,Drainage,High,Drainage & Sewerage
+451,Residents are reporting sewage overflow around the railway crossing. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+452,Citizens are concerned about water leakage at the community center. Kindly investigate.,Water,High,Water Supply
+453,"The the public park has sewage overflow, and people are having difficulty using the area.",Drainage,Critical,Drainage & Sewerage
+454,Urgent attention is needed at the neighborhood entrance because of water supply interruption.,Water,Medium,Water Supply
+455,Citizens are concerned about pothole at the school. Kindly investigate.,Roads,High,Roads & Works
+456,"The the school has damaged electric pole, and people are having difficulty using the area.",Electricity,Medium,Electricity
+457,Urgent attention is needed at the school because of exposed electrical wire.,Electricity,Critical,Electricity
+458,loose cable has been noticed near the street corner and may become worse if ignored.,Electricity,Medium,Electricity
+459,The area around the neighborhood entrance is affected by sparking transformer. Please arrange maintenance.,Electricity,Critical,Electricity
+460,The area around the residential street is affected by dangerous intersection. Please arrange maintenance.,Safety,High,Public Safety
+461,Residents are reporting sewer blockage around the railway crossing. Please inspect and resolve it.,Drainage,High,Drainage & Sewerage
+462,There is a exposed electrical wire near the apartment block. It is causing problems for residents.,Electricity,Critical,Electricity
+463,Please send a team to the residential street; there is damaged electric pole that needs attention.,Electricity,High,Electricity
+464,Urgent attention is needed at the school because of damaged electric pole.,Electricity,Low,Electricity
+465,Residents are reporting damaged railing around the main road. Please inspect and resolve it.,Safety,Low,Public Safety
+466,"The the community center has uncollected garbage, and people are having difficulty using the area.",Waste,Medium,Waste Management
+467,The area around the neighborhood entrance is affected by contaminated water. Please arrange maintenance.,Water,High,Water Supply
+468,"The the main road has broken sidewalk, and people are having difficulty using the area.",Safety,Medium,Public Safety
+469,The area around the railway crossing is affected by exposed electrical wire. Please arrange maintenance.,Electricity,Critical,Electricity
+470,"The the public park has damaged electric pole, and people are having difficulty using the area.",Electricity,Medium,Electricity
+471,Citizens are concerned about exposed electrical wire at the neighborhood entrance. Kindly investigate.,Electricity,Critical,Electricity
+472,broken sidewalk has been noticed near the railway crossing and may become worse if ignored.,Safety,Medium,Public Safety
+473,broken water pipe has been noticed near the residential street and may become worse if ignored.,Water,Medium,Water Supply
+474,Please send a team to the shopping area; there is sewer blockage that needs attention.,Drainage,Medium,Drainage & Sewerage
+475,Citizens are concerned about uncollected garbage at the hospital road. Kindly investigate.,Waste,Medium,Waste Management
+476,Residents are reporting missing safety barrier around the residential street. Please inspect and resolve it.,Safety,Medium,Public Safety
+477,Urgent attention is needed at the drainage lane because of damaged electric pole.,Electricity,High,Electricity
+478,low water pressure has been noticed near the main road and may become worse if ignored.,Water,High,Water Supply
+479,The area around the drainage lane is affected by broken pavement. Please arrange maintenance.,Roads,Medium,Roads & Works
+480,Please send a team to the bus stop; there is abandoned structure that needs attention.,Safety,High,Public Safety
+481,sewage overflow has been noticed near the shopping area and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+482,Please send a team to the local mosque; there is water leakage that needs attention.,Water,Medium,Water Supply
+483,Please send a team to the bus stop; there is dangerous intersection that needs attention.,Safety,Low,Public Safety
+484,The area around the shopping area is affected by uncollected garbage. Please arrange maintenance.,Waste,Low,Waste Management
+485,"The the neighborhood entrance has water leakage, and people are having difficulty using the area.",Water,Medium,Water Supply
+486,Please send a team to the railway crossing; there is scattered waste that needs attention.,Waste,High,Waste Management
+487,There is a sewer blockage near the residential street. It is causing problems for residents.,Drainage,High,Drainage & Sewerage
+488,Please send a team to the local mosque; there is uneven road that needs attention.,Roads,Medium,Roads & Works
+489,"The the drainage lane has unsafe public area, and people are having difficulty using the area.",Safety,Medium,Public Safety
+490,Urgent attention is needed at the street corner because of water leakage.,Water,High,Water Supply
+491,overflowing water tank has been noticed near the street corner and may become worse if ignored.,Water,High,Water Supply
+492,Residents are reporting broken pavement around the local mosque. Please inspect and resolve it.,Roads,High,Roads & Works
+493,The area around the hospital road is affected by sewer blockage. Please arrange maintenance.,Drainage,High,Drainage & Sewerage
+494,water supply interruption has been noticed near the hospital road and may become worse if ignored.,Water,Low,Water Supply
+495,The area around the school is affected by broken pavement. Please arrange maintenance.,Roads,Medium,Roads & Works
+496,Citizens are concerned about damaged railing at the main road. Kindly investigate.,Safety,High,Public Safety
+497,Please send a team to the apartment block; there is loose cable that needs attention.,Electricity,Low,Electricity
+498,Urgent attention is needed at the street corner because of abandoned structure.,Safety,Medium,Public Safety
+499,Residents are reporting cracked road around the railway crossing. Please inspect and resolve it.,Roads,Low,Roads & Works
+500,Please send a team to the public park; there is contaminated water that needs attention.,Water,Low,Water Supply
+501,illegal dumping has been noticed near the hospital road and may become worse if ignored.,Waste,High,Waste Management
+502,There is a sewage overflow near the shopping area. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+503,Please send a team to the public park; there is flooded drain that needs attention.,Drainage,Critical,Drainage & Sewerage
+504,The area around the market is affected by uneven road. Please arrange maintenance.,Roads,Medium,Roads & Works
+505,plastic waste has been noticed near the neighborhood entrance and may become worse if ignored.,Waste,Medium,Waste Management
+506,Please send a team to the public park; there is missing safety barrier that needs attention.,Safety,Medium,Public Safety
+507,The area around the school is affected by contaminated water. Please arrange maintenance.,Water,High,Water Supply
+508,The area around the community center is affected by exposed electrical wire. Please arrange maintenance.,Electricity,Critical,Electricity
+509,Please send a team to the street corner; there is loose cable that needs attention.,Electricity,High,Electricity
+510,Residents are reporting dangerous intersection around the street corner. Please inspect and resolve it.,Safety,Medium,Public Safety
+511,Residents are reporting loose cable around the public park. Please inspect and resolve it.,Electricity,High,Electricity
+512,Please send a team to the street corner; there is pothole that needs attention.,Roads,Medium,Roads & Works
+513,The area around the public park is affected by broken water pipe. Please arrange maintenance.,Water,Low,Water Supply
+514,The area around the local mosque is affected by overflowing water tank. Please arrange maintenance.,Water,Low,Water Supply
+515,There is a damaged electric pole near the apartment block. It is causing problems for residents.,Electricity,Medium,Electricity
+516,There is a damaged electric pole near the hospital road. It is causing problems for residents.,Electricity,Medium,Electricity
+517,There is a missing safety barrier near the shopping area. It is causing problems for residents.,Safety,Medium,Public Safety
+518,Residents are reporting uneven road around the bus stop. Please inspect and resolve it.,Roads,Low,Roads & Works
+519,There is a flooded drain near the market. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+520,cracked road has been noticed near the main road and may become worse if ignored.,Roads,Medium,Roads & Works
+521,Urgent attention is needed at the shopping area because of overflowing water tank.,Water,Medium,Water Supply
+522,Urgent attention is needed at the street corner because of scattered waste.,Waste,Medium,Waste Management
+523,"The the street corner has broken sidewalk, and people are having difficulty using the area.",Safety,Medium,Public Safety
+524,Urgent attention is needed at the school because of blocked drain.,Drainage,Medium,Drainage & Sewerage
+525,There is a damaged railing near the street corner. It is causing problems for residents.,Safety,High,Public Safety
+526,Urgent attention is needed at the railway crossing because of open manhole.,Drainage,Medium,Drainage & Sewerage
+527,Citizens are concerned about broken water pipe at the hospital road. Kindly investigate.,Water,Low,Water Supply
+528,Residents are reporting overflowing water tank around the apartment block. Please inspect and resolve it.,Water,Low,Water Supply
+529,There is a abandoned structure near the local mosque. It is causing problems for residents.,Safety,Medium,Public Safety
+530,There is a pothole near the local mosque. It is causing problems for residents.,Roads,Medium,Roads & Works
+531,There is a broken sidewalk near the street corner. It is causing problems for residents.,Safety,Medium,Public Safety
+532,Please send a team to the hospital road; there is cracked road that needs attention.,Roads,Medium,Roads & Works
+533,damaged road has been noticed near the neighborhood entrance and may become worse if ignored.,Roads,Medium,Roads & Works
+534,Citizens are concerned about dangerous intersection at the public park. Kindly investigate.,Safety,Medium,Public Safety
+535,Please send a team to the neighborhood entrance; there is overflowing water tank that needs attention.,Water,Medium,Water Supply
+536,"The the neighborhood entrance has blocked drain, and people are having difficulty using the area.",Drainage,Medium,Drainage & Sewerage
+537,There is a construction waste near the hospital road. It is causing problems for residents.,Waste,High,Waste Management
+538,Citizens are concerned about broken sidewalk at the community center. Kindly investigate.,Safety,Medium,Public Safety
+539,Urgent attention is needed at the residential street because of illegal dumping.,Waste,Low,Waste Management
+540,Please send a team to the bus stop; there is damaged electric pole that needs attention.,Electricity,Medium,Electricity
+541,The area around the apartment block is affected by damaged railing. Please arrange maintenance.,Safety,High,Public Safety
+542,"The the community center has damaged electric pole, and people are having difficulty using the area.",Electricity,Medium,Electricity
+543,Residents are reporting overflowing drain around the public park. Please inspect and resolve it.,Drainage,High,Drainage & Sewerage
+544,Please send a team to the neighborhood entrance; there is blocked drain that needs attention.,Drainage,Low,Drainage & Sewerage
+545,There is a plastic waste near the local mosque. It is causing problems for residents.,Waste,High,Waste Management
+546,Please send a team to the shopping area; there is water supply interruption that needs attention.,Water,Medium,Water Supply
+547,There is a sewer blockage near the drainage lane. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+548,The area around the market is affected by overflowing water tank. Please arrange maintenance.,Water,High,Water Supply
+549,Please send a team to the shopping area; there is dangerous intersection that needs attention.,Safety,Medium,Public Safety
+550,water supply interruption has been noticed near the public park and may become worse if ignored.,Water,Medium,Water Supply
+551,loose cable has been noticed near the public park and may become worse if ignored.,Electricity,Medium,Electricity
+552,Residents are reporting damaged electric pole around the hospital road. Please inspect and resolve it.,Electricity,High,Electricity
+553,Citizens are concerned about abandoned structure at the apartment block. Kindly investigate.,Safety,High,Public Safety
+554,There is a sewer blockage near the community center. It is causing problems for residents.,Drainage,Medium,Drainage & Sewerage
+555,There is a overflowing water tank near the school. It is causing problems for residents.,Water,Medium,Water Supply
+556,Urgent attention is needed at the shopping area because of sparking transformer.,Electricity,Critical,Electricity
+557,Citizens are concerned about overflowing drain at the bus stop. Kindly investigate.,Drainage,Medium,Drainage & Sewerage
+558,Citizens are concerned about power outage at the hospital road. Kindly investigate.,Electricity,Medium,Electricity
+559,The area around the railway crossing is affected by plastic waste. Please arrange maintenance.,Waste,Medium,Waste Management
+560,"The the school has missing safety barrier, and people are having difficulty using the area.",Safety,High,Public Safety
+561,There is a illegal dumping near the drainage lane. It is causing problems for residents.,Waste,Medium,Waste Management
+562,There is a uneven road near the main road. It is causing problems for residents.,Roads,Medium,Roads & Works
+563,"The the market has damaged railing, and people are having difficulty using the area.",Safety,Low,Public Safety
+564,There is a damaged electric pole near the public park. It is causing problems for residents.,Electricity,Medium,Electricity
+565,The area around the drainage lane is affected by dangerous intersection. Please arrange maintenance.,Safety,Medium,Public Safety
+566,Urgent attention is needed at the neighborhood entrance because of pothole.,Roads,Low,Roads & Works
+567,loose cable has been noticed near the residential street and may become worse if ignored.,Electricity,Low,Electricity
+568,"The the community center has broken sidewalk, and people are having difficulty using the area.",Safety,Low,Public Safety
+569,Please send a team to the school; there is road excavation that needs attention.,Roads,Low,Roads & Works
+570,Citizens are concerned about exposed electrical wire at the street corner. Kindly investigate.,Electricity,Critical,Electricity
+571,Citizens are concerned about open manhole at the market. Kindly investigate.,Drainage,High,Drainage & Sewerage
+572,Please send a team to the bus stop; there is construction waste that needs attention.,Waste,Medium,Waste Management
+573,There is a uneven road near the street corner. It is causing problems for residents.,Roads,Low,Roads & Works
+574,The area around the neighborhood entrance is affected by scattered waste. Please arrange maintenance.,Waste,Low,Waste Management
+575,Residents are reporting uneven road around the school. Please inspect and resolve it.,Roads,Medium,Roads & Works
+576,Citizens are concerned about plastic waste at the apartment block. Kindly investigate.,Waste,Medium,Waste Management
+577,There is a road excavation near the drainage lane. It is causing problems for residents.,Roads,Medium,Roads & Works
+578,dangerous intersection has been noticed near the hospital road and may become worse if ignored.,Safety,Low,Public Safety
+579,uneven road has been noticed near the drainage lane and may become worse if ignored.,Roads,High,Roads & Works
+580,"The the main road has loose cable, and people are having difficulty using the area.",Electricity,High,Electricity
+581,"The the bus stop has blocked drain, and people are having difficulty using the area.",Drainage,High,Drainage & Sewerage
+582,Residents are reporting abandoned structure around the drainage lane. Please inspect and resolve it.,Safety,Medium,Public Safety
+583,Urgent attention is needed at the local mosque because of power outage.,Electricity,Medium,Electricity
+584,"The the community center has exposed electrical wire, and people are having difficulty using the area.",Electricity,Critical,Electricity
+585,Citizens are concerned about broken sidewalk at the market. Kindly investigate.,Safety,Low,Public Safety
+586,Residents are reporting illegal dumping around the street corner. Please inspect and resolve it.,Waste,Medium,Waste Management
+587,Citizens are concerned about sparking transformer at the community center. Kindly investigate.,Electricity,Critical,Electricity
+588,The area around the residential street is affected by uneven road. Please arrange maintenance.,Roads,Medium,Roads & Works
+589,Urgent attention is needed at the community center because of sewage overflow.,Drainage,Critical,Drainage & Sewerage
+590,Urgent attention is needed at the local mosque because of overflowing water tank.,Water,Low,Water Supply
+591,Please send a team to the apartment block; there is exposed electrical wire that needs attention.,Electricity,Critical,Electricity
+592,unsafe public area has been noticed near the market and may become worse if ignored.,Safety,Low,Public Safety
+593,Urgent attention is needed at the school because of broken sidewalk.,Safety,Medium,Public Safety
+594,pothole has been noticed near the main road and may become worse if ignored.,Roads,Medium,Roads & Works
+595,Residents are reporting blocked drain around the school. Please inspect and resolve it.,Drainage,Low,Drainage & Sewerage
+596,Urgent attention is needed at the neighborhood entrance because of construction waste.,Waste,Low,Waste Management
+597,Residents are reporting broken pavement around the neighborhood entrance. Please inspect and resolve it.,Roads,Medium,Roads & Works
+598,open manhole has been noticed near the main road and may become worse if ignored.,Drainage,Medium,Drainage & Sewerage
+599,Please send a team to the drainage lane; there is uneven road that needs attention.,Roads,Medium,Roads & Works
+600,"The the community center has overflowing water tank, and people are having difficulty using the area.",Water,Low,Water Supply
+601,"The the hospital road has sewer blockage, and people are having difficulty using the area.",Drainage,Low,Drainage & Sewerage
+602,uncollected garbage has been noticed near the community center and may become worse if ignored.,Waste,Medium,Waste Management
+603,Please send a team to the residential street; there is broken pavement that needs attention.,Roads,High,Roads & Works
+604,Please send a team to the local mosque; there is construction waste that needs attention.,Waste,Medium,Waste Management
+605,Urgent attention is needed at the main road because of low water pressure.,Water,Medium,Water Supply
+606,Citizens are concerned about damaged electric pole at the apartment block. Kindly investigate.,Electricity,Medium,Electricity
+607,"The the local mosque has plastic waste, and people are having difficulty using the area.",Waste,Medium,Waste Management
+608,The area around the bus stop is affected by loose cable. Please arrange maintenance.,Electricity,Medium,Electricity
+609,The area around the residential street is affected by uncollected garbage. Please arrange maintenance.,Waste,High,Waste Management
+610,low water pressure has been noticed near the community center and may become worse if ignored.,Water,High,Water Supply
+611,Please send a team to the market; there is uncollected garbage that needs attention.,Waste,Medium,Waste Management
+612,There is a power outage near the railway crossing. It is causing problems for residents.,Electricity,High,Electricity
+613,The area around the bus stop is affected by plastic waste. Please arrange maintenance.,Waste,High,Waste Management
+614,Urgent attention is needed at the street corner because of unsafe public area.,Safety,Medium,Public Safety
+615,Please send a team to the residential street; there is overflowing water tank that needs attention.,Water,Medium,Water Supply
+616,Urgent attention is needed at the community center because of overflowing water tank.,Water,Low,Water Supply
+617,Urgent attention is needed at the local mosque because of damaged electric pole.,Electricity,Medium,Electricity
+618,There is a abandoned structure near the neighborhood entrance. It is causing problems for residents.,Safety,High,Public Safety
+619,Residents are reporting flooded drain around the drainage lane. Please inspect and resolve it.,Drainage,Critical,Drainage & Sewerage
+620,Citizens are concerned about damaged road at the railway crossing. Kindly investigate.,Roads,Low,Roads & Works
+621,Urgent attention is needed at the local mosque because of broken streetlight.,Electricity,High,Electricity
+622,There is a open manhole near the market. It is causing problems for residents.,Drainage,Low,Drainage & Sewerage
+623,Please send a team to the shopping area; there is water supply interruption that needs attention.,Water,Medium,Water Supply
+624,"The the apartment block has scattered waste, and people are having difficulty using the area.",Waste,Medium,Waste Management
+625,cracked road has been noticed near the market and may become worse if ignored.,Roads,Medium,Roads & Works
+626,"The the street corner has pothole, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+627,Please send a team to the apartment block; there is open manhole that needs attention.,Drainage,Medium,Drainage & Sewerage
+628,The area around the market is affected by open manhole. Please arrange maintenance.,Drainage,High,Drainage & Sewerage
+629,uncollected garbage has been noticed near the market and may become worse if ignored.,Waste,Low,Waste Management
+630,Citizens are concerned about unsafe public area at the main road. Kindly investigate.,Safety,Medium,Public Safety
+631,Please send a team to the drainage lane; there is damaged railing that needs attention.,Safety,Medium,Public Safety
+632,Urgent attention is needed at the public park because of power outage.,Electricity,High,Electricity
+633,"The the railway crossing has contaminated water, and people are having difficulty using the area.",Water,Low,Water Supply
+634,There is a abandoned structure near the community center. It is causing problems for residents.,Safety,High,Public Safety
+635,Urgent attention is needed at the local mosque because of contaminated water.,Water,Medium,Water Supply
+636,damaged railing has been noticed near the bus stop and may become worse if ignored.,Safety,High,Public Safety
+637,"The the market has road excavation, and people are having difficulty using the area.",Roads,Medium,Roads & Works
+638,contaminated water has been noticed near the market and may become worse if ignored.,Water,Medium,Water Supply
+639,Citizens are concerned about construction waste at the railway crossing. Kindly investigate.,Waste,Medium,Waste Management
+640,Residents are reporting damaged electric pole around the local mosque. Please inspect and resolve it.,Electricity,Medium,Electricity
+641,construction waste has been noticed near the school and may become worse if ignored.,Waste,High,Waste Management
+642,"The the railway crossing has broken streetlight, and people are having difficulty using the area.",Electricity,Medium,Electricity
+643,"The the market has low water pressure, and people are having difficulty using the area.",Water,Medium,Water Supply
+644,Urgent attention is needed at the community center because of water supply interruption.,Water,Medium,Water Supply
+645,"The the community center has damaged electric pole, and people are having difficulty using the area.",Electricity,Medium,Electricity
+646,"The the drainage lane has loose cable, and people are having difficulty using the area.",Electricity,Medium,Electricity
+647,"The the school has uncollected garbage, and people are having difficulty using the area.",Waste,Medium,Waste Management
+648,Citizens are concerned about construction waste at the main road. Kindly investigate.,Waste,High,Waste Management
+649,Urgent attention is needed at the bus stop because of illegal dumping.,Waste,High,Waste Management
+650,Urgent attention is needed at the hospital road because of loose cable.,Electricity,Medium,Electricity
+651,The area around the street corner is affected by plastic waste. Please arrange maintenance.,Waste,Medium,Waste Management
+652,Please send a team to the main road; there is road excavation that needs attention.,Roads,Medium,Roads & Works
+653,overflowing drain has been noticed near the neighborhood entrance and may become worse if ignored.,Drainage,Low,Drainage & Sewerage
+654,The area around the shopping area is affected by construction waste. Please arrange maintenance.,Waste,Medium,Waste Management
+655,road excavation has been noticed near the market and may become worse if ignored.,Roads,High,Roads & Works
+656,There is a sewage overflow near the street corner. It is causing problems for residents.,Drainage,Critical,Drainage & Sewerage
+657,Please send a team to the neighborhood entrance; there is abandoned structure that needs attention.,Safety,High,Public Safety
+658,Please send a team to the street corner; there is uneven road that needs attention.,Roads,Medium,Roads & Works
+659,Citizens are concerned about cracked road at the residential street. Kindly investigate.,Roads,High,Roads & Works
+660,Residents are reporting cracked road around the street corner. Please inspect and resolve it.,Roads,High,Roads & Works
+661,Citizens are concerned about broken water pipe at the apartment block. Kindly investigate.,Water,High,Water Supply
+662,"The the community center has loose cable, and people are having difficulty using the area.",Electricity,Medium,Electricity
+663,There is a broken water pipe near the apartment block. It is causing problems for residents.,Water,Medium,Water Supply
+664,"The the local mosque has exposed electrical wire, and people are having difficulty using the area.",Electricity,Critical,Electricity
+665,flooded drain has been noticed near the residential street and may become worse if ignored.,Drainage,Critical,Drainage & Sewerage
+666,Residents are reporting exposed electrical wire around the street corner. Please inspect and resolve it.,Electricity,Critical,Electricity
+667,There is a contaminated water near the drainage lane. It is causing problems for residents.,Water,High,Water Supply
+668,"The the shopping area has damaged railing, and people are having difficulty using the area.",Safety,Medium,Public Safety
+669,Please send a team to the street corner; there is missing safety barrier that needs attention.,Safety,High,Public Safety
+670,"The the hospital road has abandoned structure, and people are having difficulty using the area.",Safety,Medium,Public Safety
+671,Urgent attention is needed at the community center because of flooded drain.,Drainage,Critical,Drainage & Sewerage
+672,Residents are reporting overflowing garbage bin around the railway crossing. Please inspect and resolve it.,Waste,Medium,Waste Management
+673,Citizens are concerned about missing safety barrier at the shopping area. Kindly investigate.,Safety,Medium,Public Safety
+674,There is a uncollected garbage near the local mosque. It is causing problems for residents.,Waste,High,Waste Management
+675,The area around the shopping area is affected by unsafe public area. Please arrange maintenance.,Safety,Medium,Public Safety
+676,Residents are reporting missing safety barrier around the street corner. Please inspect and resolve it.,Safety,High,Public Safety
+677,Please send a team to the community center; there is illegal dumping that needs attention.,Waste,Medium,Waste Management
+678,"The the public park has sewer blockage, and people are having difficulty using the area.",Drainage,Medium,Drainage & Sewerage
+679,There is a uncollected garbage near the drainage lane. It is causing problems for residents.,Waste,Low,Waste Management
+680,Residents are reporting abandoned structure around the main road. Please inspect and resolve it.,Safety,High,Public Safety
+681,There is a contaminated water near the hospital road. It is causing problems for residents.,Water,High,Water Supply
+682,"The the shopping area has illegal dumping, and people are having difficulty using the area.",Waste,High,Waste Management
+683,overflowing drain has been noticed near the street corner and may become worse if ignored.,Drainage,Low,Drainage & Sewerage
+684,Citizens are concerned about sewer blockage at the market. Kindly investigate.,Drainage,Medium,Drainage & Sewerage
+685,Urgent attention is needed at the main road because of damaged railing.,Safety,Medium,Public Safety
+686,Please send a team to the apartment block; there is broken sidewalk that needs attention.,Safety,Medium,Public Safety
+687,There is a uneven road near the market. It is causing problems for residents.,Roads,Medium,Roads & Works
+688,Please send a team to the local mosque; there is damaged road that needs attention.,Roads,Medium,Roads & Works
+689,Citizens are concerned about overflowing garbage bin at the main road. Kindly investigate.,Waste,High,Waste Management
+690,The area around the school is affected by plastic waste. Please arrange maintenance.,Waste,Low,Waste Management
+691,Residents are reporting overflowing garbage bin around the shopping area. Please inspect and resolve it.,Waste,Low,Waste Management
+692,Urgent attention is needed at the school because of sewer blockage.,Drainage,High,Drainage & Sewerage
+693,"The the railway crossing has overflowing water tank, and people are having difficulty using the area.",Water,Low,Water Supply
+694,"The the local mosque has broken streetlight, and people are having difficulty using the area.",Electricity,Medium,Electricity
+695,"The the railway crossing has damaged railing, and people are having difficulty using the area.",Safety,High,Public Safety
+696,Please send a team to the hospital road; there is loose cable that needs attention.,Electricity,Low,Electricity
+697,Residents are reporting damaged road around the apartment block. Please inspect and resolve it.,Roads,Medium,Roads & Works
+698,Citizens are concerned about uncollected garbage at the community center. Kindly investigate.,Waste,High,Waste Management
+699,Residents are reporting low water pressure around the railway crossing. Please inspect and resolve it.,Water,Medium,Water Supply
+700,sparking transformer has been noticed near the shopping area and may become worse if ignored.,Electricity,Critical,Electricity
